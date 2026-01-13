@@ -72,3 +72,27 @@ I'm a passionate backend/DevOps engineer building scalable cloud infrastructure 
 ---
 
 ## 🎮 Fun Fact
+
+
+---
+
+## 📈 Recent Activity
+- 🚀 Building scalable cloud infrastructure with AWS
+- 💻 Developing backend microservices with Spring Boot
+- 🤖 Automating DevOps workflows with GitHub Actions
+- 🔧 Exploring Kubernetes orchestration
+
+---
+
+<div align="center">
+  
+  ![snake gif](https://github.com/ashwinshetty3/ashwinshetty3/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashwinshetty3&color=00B4D8&style=flat-square" alt="Profile Views" />
+</div>
+
